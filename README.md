@@ -68,6 +68,7 @@ python3 server.py
 * GUI Polish
 * LSP (Language Server Protocol)
 * Vim-style motion and shortcuts
+* Terminal 
 
 ## Attribution
 
