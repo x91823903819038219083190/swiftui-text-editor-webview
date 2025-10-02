@@ -21,7 +21,7 @@ SwiftUI macOS starter project: Text editor with live save and Safari WebView pre
 
 - Version (October 2, 2025)
 
-![App Screenshot](screenshots/Screenshot%2025-10-02.png)  
+![App Screenshot](screenshots/Screenshot_2025-10-02.png)  
 
 
 ![Architecture Diagram](screenshots/diagram.png)  
